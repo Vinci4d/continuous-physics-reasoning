@@ -9,7 +9,7 @@ This repository exists to support:
 - future revisions to the framework
 
 ## Paper
-- Continuous Physics Reasoning: Definition, Minimum Criteria, and the Role of Foundation Models for Physics
+- [Continuous Physics Reasoning: Definition, Minimum Criteria, and the Role of Foundation Models for Physics](./continuous-physics-reasoning-research-paper.pdf)
 
 ## Feedback
 Use Issues for comments, critique, and proposed revisions.
