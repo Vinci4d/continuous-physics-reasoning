@@ -1,6 +1,6 @@
 # Continuous Physics Reasoning
 
-This repository hosts the public discussion and version-history layer for the Continuous Physics Reasoning framework and the enabling role of foundation models for physics.
+This repository hosts the public discussion and version history for the Continuous Physics Reasoning framework and its relationship to foundation models for physics.
 
 ## Purpose
 This repository exists to support:
@@ -8,8 +8,8 @@ This repository exists to support:
 - public discussion
 - future revisions to the framework
 
-## Paper
+## Canonical Document
 - [Continuous Physics Reasoning: Definition, Minimum Criteria, and the Role of Foundation Models for Physics](./continuous-physics-reasoning-research-paper.pdf)
 
 ## Feedback
-Use Issues for comments, critique, and proposed revisions.
+Use GitHub Issues for comments, critique, and proposed refinements.
